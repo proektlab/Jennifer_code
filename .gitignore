@@ -1,7 +1,8 @@
 *.asv# MATLAB autosave, Windows
 *~# MATLAB autosave, non-Windows
-*.mat
 *.fig
 *.avi
 *.pdf
+*.pl2
+*.mat
 "*conflicted copy*"
